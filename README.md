@@ -221,6 +221,6 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-Built by **ShadowStrike** (Strategos) — where we build actual security tools instead of theatre. 🎃
+Built by **ShadowStrike** (Strategos) — where we build actual security tools instead of theatre 🎃. 
 
 Part of the Strategos project for APAC forensic and security tooling.
